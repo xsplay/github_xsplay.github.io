@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: github_xsplay/github_xsplay.github.io
-github_url: https://github.com/github_xsplay
-url: https://github_xsplay.github.io
+github_url: http://github.com/github_xsplay
+url: http://github_xsplay.github.io
 enforce_ssl: xsplay.com
 
 ## Gem
