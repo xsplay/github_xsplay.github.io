@@ -18,7 +18,6 @@ favicon: favicon.ico
 repository: github_xsplay/github_xsplay.github.io
 github_url: https://github.com/github_xsplay
 url: https://github_xsplay.github.io
-enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
